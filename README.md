@@ -9,8 +9,8 @@ I am an Begginer **Data Analyst**
 
 
 - 🔭 I’m currently Studying on [26 Vacational High School](https://www.google.com/maps/place/SMK+Negeri+26+Jakarta/@-6.1945788,106.8873142,15z/data=!4m5!3m4!1s0x0:0xa4012b68ec698d4e!8m2!3d-6.1945788!4d106.8873142)
-- 🌱 I’m currently learning **Python - Django**
-- 🤔 I'm looking for help to guide me to become a Python Back End Web Developer
+- 🌱 I’m currently learning **Bootstrap, React, and javascript**
+- 🤔 I'm looking for help to guide me to become a Full Stack Web Dev
 - 💬 Ask me about **Random Things**
 - 📫 How to reach me: [Instagram](https://www.instagram.com/andi_2809/)
 - 📖 My hobbies are reading manga, books, and playing games
