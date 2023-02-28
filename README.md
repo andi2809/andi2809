@@ -1,7 +1,16 @@
 ## Hi there 👋
 
 I am **Kurniawan Andi Santoso**. I'm student at **26 Vacational Highschool in Jakarta majoring in System Information Networking and Application**.  
-I am an Begginer **Data Analyst**
+I am a **Fullstack Web Development**
+
+## Tech i Used:
+- Front End:
+ NextJS,
+ Bootstrap
+- Back End:
+ Laravel,
+ CodeIgniter
+
 
 [![Linkedin: Andi](https://img.shields.io/badge/-Kurniawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurniawan-andi-20b5b0195/)](https://www.linkedin.com/in/kurniawan-andi-20b5b0195/)
 [![GitHub Andi](https://img.shields.io/github/followers/Andi2809?label=follow&style=social)](https://github.com/Andi2809)
