@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-I am **Kurniawan Andi Santoso**. I'm student at **26 Vacational Highschool in Jakarta majoring in System Information Networking and Application**.  
-I am a **Fullstack Web Development**
+I am **Kurniawan Andi Santoso**. I'm a college student at **Jakarta State University majoring in informatics and computer engineering education**.  
+I am a **Front End Web Developer**
 
 ## Tech i Used:
 - Front End:
  NextJS,
- Bootstrap
-- Back End:
- Laravel,
- CodeIgniter
+ NodeJS,
+ Bootstrap,
+ Tailwind
 
 
 [![Linkedin: Andi](https://img.shields.io/badge/-Kurniawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurniawan-andi-20b5b0195/)](https://www.linkedin.com/in/kurniawan-andi-20b5b0195/)
@@ -17,8 +16,8 @@ I am a **Fullstack Web Development**
 
 
 
-- 🔭 I’m currently Studying on [26 Vacational High School](https://www.google.com/maps/place/SMK+Negeri+26+Jakarta/@-6.1945788,106.8873142,15z/data=!4m5!3m4!1s0x0:0xa4012b68ec698d4e!8m2!3d-6.1945788!4d106.8873142)
-- 🌱 I’m currently learning **Bootstrap, React, and javascript**
+- 🔭 I’m currently Studying on [Jakarta State University](https://www.unj.ac.id/)
+- 🌱 I’m currently learning **Back-End Web Development focused on Node.js**
 - 🤔 I'm looking for help to guide me to become a Full Stack Web Dev
 - 💬 Ask me about **Random Things**
 - 📫 How to reach me: [Instagram](https://www.instagram.com/andi_2809/)
