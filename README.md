@@ -25,7 +25,7 @@ I am a **Front End Web Developer**
 - 🔭 I’m currently Studying on [Jakarta State University](https://www.unj.ac.id/)
 - 🌱 I’m currently learning **Back-End Web Development focused on Node.js**
 - 💬 Ask me about **Random Things**
-- 📫 How to reach me: **andisantoso491@gmail.com*
+- 📫 How to reach me: *andisantoso491@gmail.com*
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=andi2809&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
