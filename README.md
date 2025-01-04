@@ -1,28 +1,32 @@
 ## Hi there 👋
 
-I am **Kurniawan Andi Santoso**. I'm a college student at **Jakarta State University majoring in informatics and computer engineering education**.  
+I am **Kurniawan Andi Santoso**. I'm a college student at **Jakarta State University majoring in Informatics and Computer Engineering Education**.  
+
 I am a **Front End Web Developer**
 
 ## Tech i Used:
 - Front End:
+ ReactJS,
  NextJS,
  NodeJS,
  Bootstrap,
  Tailwind
 
 
-[![Linkedin: Andi](https://img.shields.io/badge/-Kurniawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurniawan-andi-20b5b0195/)](https://www.linkedin.com/in/kurniawan-andi-20b5b0195/)
+ 
+<a href="https://www.linkedin.com/in/kurniawan-andi-santoso-20b5b0195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kurniawan Andi Santoso" height="30" width="40" /></a>
+<br/>
+<br/>
 [![GitHub Andi](https://img.shields.io/github/followers/Andi2809?label=follow&style=social)](https://github.com/Andi2809)
+
 
 
 
 - 🔭 I’m currently Studying on [Jakarta State University](https://www.unj.ac.id/)
 - 🌱 I’m currently learning **Back-End Web Development focused on Node.js**
-- 🤔 I'm looking for help to guide me to become a Full Stack Web Dev
 - 💬 Ask me about **Random Things**
-- 📫 How to reach me: [Instagram](https://www.instagram.com/andi_2809/)
-- 📖 My hobbies are reading manga, books, and playing games
+- 📫 How to reach me: **andisantoso491@gmail.com*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andi2809&layout=compact&theme=dark&hide_border=true)
 
-![Andi github stats](https://github-readme-stats.vercel.app/api?username=andi2809&show_icons=true&hide_border=true&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=andi2809&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andi2809&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
